@@ -33,7 +33,7 @@
                 margin: 2.5rem auto;
             }
         </style>
-        <title>Reemplaza este título que se muestra en la ventana de tu navegador</title>
+        <title>How coronavirus is changing cities</title>
     </head>
     <body>
         <header class="container">
@@ -60,51 +60,55 @@
                     
                     <h3 class="fs-4 text-center my-5">INFOGRAFÍA IMPRESA</h3>
                     
-                    <p>En <a href="https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/201901A210.html" target="_blank">esta infografía</a>, además de título, crédito, bajada, fuentes y un vínculo a <a href="https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/" target="_blank">la versión digital</a>, es posible distinguir 2 gráficos grandes y 2 grupos de gráficos más pequeños; un grupo de gráficos complementan la relación entre el cuerpo y el uso excesivo del <em>smartphone</em>, y otro grupo se refiere al riesgo de accidentes por caminar "pegado" a la pantalla.</p>
+                    <p>En la infografía “How the coronavirus is changing cities” (hecha por Pablo Robles, Brian Wang, Dennis Wong, Darren Long, Alfonso Arranz y Andrew London) lo primero que llama la atención es una ilustración de una ciudad, la cual, al mirarla con mayor detenimiento nos muestra destacado en amarillo algunos de estos cambios que están ocurriendo debido a la reciente pandemia en las ciudades. Además, la ciudad contiene números marcando donde ocurren en este mapa las actividades explicadas abajo.</p>
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/text-neck-0.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-1.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                     
-                    <p>Un primer gráfico grande, que es un gráfico no-figurativo, presenta los distintos tiempos promedio que dedican las personas al uso de Internet móvil. Puede notarse que las líneas usan dos colores; amarillo para los países asiáticos y cian para otras localidades.</p>
+                    <p>En la parte inferior de la infografía se explica con el uso de gráficos figurativos distintas medidas de seguridad. La primera explicando los protocolos y tecnologías usadas en aeropuertos.</p>
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/text-neck-1.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-2.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                     
-                    <p>El segundo gráfico grande, que es uno mixto, nos muestra cómo aumenta el peso de la cabeza con el ángulo de inclinación forzado en la interacción con la pantalla de <em>smartphone</em>. Es importante aclarar que se trata de un gráfico mixto porque es entrega su información a través de (1) una ilustración que re-presenta a una mujer con su <em>smartphone</em> junto con (2) un gráfico que presenta el aumento del peso promedio de la cabeza mediante el aumento del radio de un círculo.</p>
+                    <p>El gráfico del punto 2 muestra tecnologías en puertas y escaleras mecánicas para evitar infecciones, mientras que en el 3 se muestra la nueva disposición en oficinas.</p>
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/text-neck-2.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-3.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                     
-                    <p>El grupo de gráficos más pequeños que complementa lo del dolor de cuello, nos enseña sobre otras complicaciones, entre las que se puede incluir hasta el compromiso de la capacidad de los pulmones. Conviene apuntar que entre estos gráficos pequeños hay uno que trata de otro asunto (el primero de ellos).</p>
+                    <p>En el cuarto punto explican cómo pueden estar rediseñados en algún futuro los hospitales para un aislamiento especial más eficiente.
+
+</p>
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/text-neck-3.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-4.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                     
-                    <p>El segundo grupo de gráficos más pequeños nos enseñan de los efectos de ir "pegados" al <em>smartphone</em>. Esto implica ir más allá del daño que pueda hacer el aumento de la carga de nuestra cabeza en el ángulo de inclinación. Implica referir al riesgo de accidente implicado en creer que podemos atender, a la vez, al <em>smartphone</em> y al caminar.</p>
+                    <p>El último punto muestra cómo en edificios pequeños se utilizan paredes movibles para generar un espacio versátil para distintas funciones.
+
+</p>
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
-                    <img loading="lazy" src="img/text-neck-4.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-0.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
                 </div>
                 
                 <!--FIN DE LA PRIMERA PARTE-->
