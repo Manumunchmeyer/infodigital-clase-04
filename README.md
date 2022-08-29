@@ -129,7 +129,7 @@
                     
                     <img loading="lazy" src="img/imagen-6.png" class="w-100" alt="describe lo que se ve en la imagen" />
                     
-                    <p>Este gráfico también interactivo despliega información al poner el mouse sobre el texto del tema que se quiere abordar y que también le da un plus que el tema del que se está hablamdo es la automatización de la tecnología, ya que refleja totalmente eso.</p>
+                    <p>Este gráfico también interactivo despliega información al poner el cursor sobre el texto del tema que se quiere abordar y que también aporta y es coherente al tema del que se está hablando, la automatización de la tecnología.</p>
                     
                     <img loading="lazy" src="img/imagen-7.png" class="w-100" alt="describe lo que se ve en la imagen" />
                     
