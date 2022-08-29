@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/imagen-1.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-1.PNG" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/imagen-2.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-2.PNG" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/imagen-3.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-3.PNG" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
@@ -97,7 +97,7 @@
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
                     
-                    <img loading="lazy" src="img/imagen-4.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-4.PNG" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
 
                 </div>
                 <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
@@ -108,7 +108,7 @@
 
                 </div>
                 <div class="col-md-11 col-lg-10 col-xl-9 col-xxl-8 mx-auto">
-                    <img loading="lazy" src="img/imagen-0.png" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
+                    <img loading="lazy" src="img/imagen-0.PNG" class="w-100 mb-2" alt="describe lo que se ve en la imagen" />
                 </div>
                 
                 <!--FIN DE LA PRIMERA PARTE-->
